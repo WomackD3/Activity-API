@@ -1,0 +1,193 @@
+[{
+  "activity": "Make a budget",
+  "type": "busywork",
+  "participants": 1,
+  "price": 0,
+  "link": "",
+  "key": "4379552",
+  "accessibility": 0.1
+},
+{
+  "activity": "Buy a new house decoration",
+  "type": "recreational",
+  "participants": 1,
+  "price": 0.4,
+  "link": "",
+  "key": "3456114",
+  "accessibility": 0.3
+},
+{
+  "activity": "Learn how to fold a paper crane",
+  "type": "education",
+  "participants": 1,
+  "price": 0.1,
+  "link": "",
+  "key": "3136036",
+  "accessibility": 0.05
+},
+{
+  "activity": "Go for a walk",
+  "type": "relaxation",
+  "participants": 1,
+  "price": 0,
+  "link": "",
+  "key": "4286250",
+  "accessibility": 0.1
+},
+{
+  "activity": "Listen to a new podcast",
+  "type": "relaxation",
+  "participants": 1,
+  "price": 0.05,
+  "link": "",
+  "key": "4124860",
+  "accessibility": 0.12
+},
+{
+  "activity": "Have a jam session with your friends",
+  "type": "music",
+  "participants": 5,
+  "price": 0.1,
+  "link": "",
+  "key": "2715253",
+  "accessibility": 0.3
+},
+{
+  "activity": "Organize your music collection",
+  "type": "busywork",
+  "participants": 1,
+  "price": 0,
+  "link": "",
+  "key": "3151646",
+  "accessibility": 0
+},
+{
+  "activity": "Learn how to make an Alexa skill",
+  "type": "education",
+  "participants": 1,
+  "price": 0,
+  "link": "https://developer.amazon.com/en-US/docs/alexa/custom-skills/steps-to-build-a-custom-skill.html",
+  "key": "1592381",
+  "accessibility": 0.1
+},
+{
+  "activity": "Shop at support your local farmers market",
+  "type": "relaxation",
+  "participants": 1,
+  "price": 0.2,
+  "link": "",
+  "key": "8979931",
+  "accessibility": 0.1
+},
+{
+  "activity": "Learn how to use an Arduino",
+  "type": "education",
+  "participants": 1,
+  "price": 0.1,
+  "link": "https://en.wikipedia.org/wiki/Arduino",
+  "key": "8264223",
+  "accessibility": 0.7
+},
+{
+  "activity": "Take your dog on a walk",
+  "type": "relaxation",
+  "participants": 1,
+  "price": 0,
+  "link": "",
+  "key": "9318514",
+  "accessibility": 0.2
+},
+{
+  "activity": "Invite some friends over for a game night",
+  "type": "social",
+  "participants": 4,
+  "price": 0,
+  "link": "",
+  "key": "6613428",
+  "accessibility": 0.2
+},
+{
+  "activity": "Take a caffeine nap",
+  "type": "relaxation",
+  "participants": 1,
+  "price": 0.1,
+  "link": "",
+  "key": "5092652",
+  "accessibility": 0.08
+},
+{
+  "activity": "Donate to your local food bank",
+  "type": "charity",
+  "participants": 1,
+  "price": 0.5,
+  "link": "",
+  "key": "4150284",
+  "accessibility": 0.8
+},
+{
+  "activity": "Learn calligraphy",
+  "type": "education",
+  "participants": 1,
+  "price": 0.1,
+  "link": "",
+  "key": "4565537",
+  "accessibility": 0.1
+},
+{
+  "activity": "Shred old documents you don't need anymore",
+  "type": "busywork",
+  "participants": 1,
+  "price": 0,
+  "link": "",
+  "key": "2430066",
+  "accessibility": 0
+},
+{
+  "activity": "Write a list of things you are grateful for",
+  "type": "relaxation",
+  "participants": 1,
+  "price": 0,
+  "link": "",
+  "key": "2062010",
+  "accessibility": 0
+},
+{
+  "activity": "Plan a vacation you've always wanted to take",
+  "type": "relaxation",
+  "participants": 1,
+  "price": 0,
+  "link": "",
+  "key": "7265395",
+  "accessibility": 0.05
+},
+{
+  "activity": "Hold a video game tournament with some friends",
+  "type": "social",
+  "participants": 4,
+  "price": 0,
+  "link": "",
+  "key": "2300257",
+  "accessibility": 0.1
+},
+{
+	"activity": "Learn how to play a new sport",
+	"accessibility": 0.2,
+	"type": "recreational",
+	"participants": 1,
+	"price": 0.1,
+	"key": "5808228"
+},
+{
+	"activity":"Learn a new recipe",
+	"accessibility":0.05,
+	"type":"cooking",
+	"participants":1,
+	"price":0
+}
+
+
+
+
+
+
+]
