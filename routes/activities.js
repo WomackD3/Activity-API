@@ -1,6 +1,5 @@
 import { Router } from 'express'
-import * as controllers from '../controllers/activities.js'
-
+import * as controllers from "../controllers/Activities.js"
 
 const router = Router()
 
